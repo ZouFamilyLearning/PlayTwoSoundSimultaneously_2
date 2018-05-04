@@ -1,0 +1,9 @@
+c:\users\tonebeta\documents\visual studio 2017\Projects\PlayTwoSoundSimultaneously\PlayTwoSoundSimultaneously\bin\Debug\PlayTwoSoundSimultaneously.exe.config
+c:\users\tonebeta\documents\visual studio 2017\Projects\PlayTwoSoundSimultaneously\PlayTwoSoundSimultaneously\bin\Debug\PlayTwoSoundSimultaneously.exe
+c:\users\tonebeta\documents\visual studio 2017\Projects\PlayTwoSoundSimultaneously\PlayTwoSoundSimultaneously\bin\Debug\PlayTwoSoundSimultaneously.pdb
+c:\users\tonebeta\documents\visual studio 2017\Projects\PlayTwoSoundSimultaneously\PlayTwoSoundSimultaneously\obj\Debug\PlayTwoSoundSimultaneously.Form1.resources
+c:\users\tonebeta\documents\visual studio 2017\Projects\PlayTwoSoundSimultaneously\PlayTwoSoundSimultaneously\obj\Debug\PlayTwoSoundSimultaneously.Properties.Resources.resources
+c:\users\tonebeta\documents\visual studio 2017\Projects\PlayTwoSoundSimultaneously\PlayTwoSoundSimultaneously\obj\Debug\PlayTwoSoundSimultaneously.csproj.GenerateResource.Cache
+c:\users\tonebeta\documents\visual studio 2017\Projects\PlayTwoSoundSimultaneously\PlayTwoSoundSimultaneously\obj\Debug\PlayTwoSoundSimultaneously.exe
+c:\users\tonebeta\documents\visual studio 2017\Projects\PlayTwoSoundSimultaneously\PlayTwoSoundSimultaneously\obj\Debug\PlayTwoSoundSimultaneously.pdb
+C:\Users\tonebeta\documents\visual studio 2017\Projects\PlayTwoSoundSimultaneously\PlayTwoSoundSimultaneously\obj\Debug\PlayTwoSoundSimultaneously.csprojResolveAssemblyReference.cache
